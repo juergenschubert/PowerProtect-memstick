@@ -1,6 +1,11 @@
 Dies ist das PowerProtect Memorystick Projekt
 
-Inhalt des Memory Sticks sind alle ova Dateien für eine PowerProtectDataManager und DDVE Installation.
+Idee: Einen Memorystick zu erstellen auf dem alles ist was man braucht um einen PowerProtect DataManager zu installieren.
 
-Viedeos zur Installation und Konfiguration sowie mp4 Player.
- 
+Inhalt des Memory Sticks ist:
+ova Dateien für eine PowerProtectDataManager und DDVE Installation
+pdf Dokumentation
+mp4 Viedoes HowTo install and Config PowerProtect
+mp4 Player
+
+Neuigkeiten werden hier gepostet und können zu jeder Zeit heruntergeladen werden.
