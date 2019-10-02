@@ -11,3 +11,6 @@ mp4 Player
 Neuigkeiten werden hier gepostet und können zu jeder Zeit heruntergeladen werden.
 
 Die ova Dateien habe ich der Größe geschuldet jetzt nicht in dieses Repository gelegt. Bitte selber runterladen aus dem Support Portal.
+
+Die Videos können auch online angesehen werden unter:
+https://www.screencast.com/t/x0HDR8AUSnT
