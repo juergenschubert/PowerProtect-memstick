@@ -1,3 +1,7 @@
+---
+title: "DPS PowerProtect Memorystick"
+description: "Inhalt auf einen Memory Stick kopieren als Werbegeschenk für Kunden"
+---
 Dies ist das PowerProtect Memorystick Projekt
 
 Idee: Einen Memorystick zu erstellen auf dem alles ist was man braucht um einen PowerProtect DataManager zu installieren.
