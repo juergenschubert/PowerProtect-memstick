@@ -18,3 +18,9 @@ Die ova Dateien habe ich der Größe geschuldet jetzt nicht in dieses Repository
 
 Die Videos können auch online angesehen werden unter:
 https://www.screencast.com/t/x0HDR8AUSnT
+
+
+Create a windows commandline xcopy job for copiey what you download plus the ova with:
+
+START /Realtime xcopy /S /i /d /y "C:\Users\schubj2\OneDrive - Dell Inc\5 Partner\2019 Partner\PowerProtect MEM Stick" D:/
+
