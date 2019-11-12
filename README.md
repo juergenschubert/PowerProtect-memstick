@@ -24,4 +24,4 @@ Create a windows commandline xcopy job for copiey what you download plus the ova
 
 START /Realtime xcopy /S /i /d /y "C:\Users\schubj2\OneDrive - Dell Inc\5 Partner\2019 Partner\PowerProtect MEM Stick" D:/
 
-*WATCHOUT* if one of your ova or video files is bigger than 4GB make sure your memory stick is formatted in ntfs format otherwise you will not get this file copied!
+<span style="color:red">*WATCHOUT* </span> if one of your ova or video files is bigger than 4GB make sure your memory stick is formated in ntfs format otherwise you will not get this file size copied!
